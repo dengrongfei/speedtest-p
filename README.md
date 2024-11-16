@@ -13,7 +13,7 @@
 1. 克隆仓库
 
 ``` bash
-git clone https://github.com/ymh1146/speedtest-p.git
+git clone https://github.com/dengrongfei/speedtest-p.git
 cd speedtest-p
 pip install -r requirements.txt
 python app.py
